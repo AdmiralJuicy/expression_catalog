@@ -1,0 +1,13 @@
+D:\Univer\Visual Studio Programs\Cursach\Cursach\bin\Debug\Cursach.exe.config
+D:\Univer\Visual Studio Programs\Cursach\Cursach\bin\Debug\Cursach.exe
+D:\Univer\Visual Studio Programs\Cursach\Cursach\bin\Debug\Cursach.pdb
+D:\Univer\Visual Studio Programs\Cursach\Cursach\obj\Debug\Cursach.csprojAssemblyReference.cache
+D:\Univer\Visual Studio Programs\Cursach\Cursach\obj\Debug\Cursach.Properties.Resources.resources
+D:\Univer\Visual Studio Programs\Cursach\Cursach\obj\Debug\Cursach.csproj.GenerateResource.cache
+D:\Univer\Visual Studio Programs\Cursach\Cursach\obj\Debug\Cursach.exe
+D:\Univer\Visual Studio Programs\Cursach\Cursach\obj\Debug\Cursach.pdb
+D:\Univer\Visual Studio Programs\Cursach\Cursach\obj\Debug\Cursach.csproj.CoreCompileInputs.cache
+D:\Univer\Visual Studio Programs\Cursach\Cursach\obj\Debug\Cursach.Main.resources
+D:\Univer\Visual Studio Programs\Cursach\Cursach\obj\Debug\Cursach.AddorChange.resources
+D:\Univer\Visual Studio Programs\Cursach\Cursach\obj\Debug\Cursach.Search.resources
+D:\Univer\Visual Studio Programs\Cursach\Cursach\obj\Debug\Cursach.Instructions.resources
